@@ -1,0 +1,26 @@
+{
+    "beam_diameter": "", 
+    "cleanup_duration": 60.0, 
+    "commit": "dfe95ae5c7d8d920489b533eae7a97a60920ba2c", 
+    "extract_device": "NMGRL Furnace", 
+    "extract_duration": 1080.0, 
+    "extract_units": "", 
+    "extract_value": 0.0, 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "sGuwTgAAAAAA8FA6AADoQkUxAEAAAOhCGhyAQAAA6ELwNsBAAADoQiIhAEEAAOhCIiQgQQAA6EKyM0BBAADoQig+YEEAAOhCviOAQQAA6EKJKZBBAADmQgMsoEEAAOZCSCywQQAA5kIlMsBBAADmQhE30EEAAOZCIDzgQQAA5kJ9PvBBAADmQgMiAEIAAOZC/yAIQgAA5EIWIBBCAADkQi0kGEIAAORCUSYgQgAA5EIFKihCAADkQpwqMEIAAORCwCo4QgAA5ELCLUBCAADiQoIuSEIAAOJCEy5QQgAA4kLhMVhCAADiQg==", 
+    "response": "sGuwTgAAAAAA8FA6AAAAAEUxAEAAAAAAGhyAQAAAAADwNsBAAAAAACIhAEEAAAAAIiQgQQAAAACyM0BBAAAAACg+YEEAAAAAviOAQQAAAACJKZBBAAAAAAMsoEEAAAAASCywQQAAAAAlMsBBAAAAABE30EEAAAAAIDzgQQAAAAB9PvBBAAAAAAMiAEIAAAAA/yAIQgAAAAAWIBBCAAAAAC0kGEIAAAAAUSYgQgAAAAAFKihCAAAAAJwqMEIAAAAAwCo4QgAAAADCLUBCAAAAAIIuSEIAAAAAEy5QQgAAAADhMVhCAAAAAA==", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 0.0
+}
