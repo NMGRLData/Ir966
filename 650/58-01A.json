@@ -1,0 +1,77 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "Biotite, 4.94 mg", 
+    "commit": "dfe95ae5c7d8d920489b533eae7a97a60920ba2c", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -530729609918142714, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_furnace.py", 
+    "identifier": "65058", 
+    "increment": 0, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-284", 
+    "irradiation_level": "B", 
+    "irradiation_position": 5, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Biotite", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "IR966", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "IR966", 
+    "sample": "PM14-15", 
+    "spec_sha": "84544fe7b81277923e7779d8b151d0cb2d21056c", 
+    "timestamp": "2016-11-23T11:37:24.234726", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "2a3dca86-b19a-41bb-a965-c6377a7e2a2d"
+}
