@@ -1,0 +1,77 @@
+{
+    "aliquot": 1232, 
+    "analysis_type": "air", 
+    "collection_version": "0.1:0.1", 
+    "comment": "", 
+    "commit": "16c076c28fac1334dce6ddc6e2c3f28424480072", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -530729609918142714, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_air_x2.py", 
+    "identifier": "a-01-F", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "", 
+    "irradiation_level": "", 
+    "irradiation_position": 0, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "IR966", 
+    "sample": "", 
+    "spec_sha": "84544fe7b81277923e7779d8b151d0cb2d21056c", 
+    "timestamp": "2016-11-29T10:30:02.988393", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "63542f2d-38da-4c65-851c-4367b13c0f2f"
+}
